@@ -9,7 +9,7 @@
       Title="LoginPage">
 
     <Grid>
-        <Grid.RowDefinitions>
+        <Grid.RowDefinitions >
             <RowDefinition Height="0,4"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="0.4"/>
